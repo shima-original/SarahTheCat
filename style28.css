@@ -14,6 +14,7 @@ body {
 .cat {
     width: 50%;
     margin: 30px;
+    margin-top: 0;
     float: right; 
 
 }
