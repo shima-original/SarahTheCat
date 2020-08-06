@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(35, 75%, 85%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+    line-height: 3em;
+}
+
+.cat {
+    width: 50%;
+    margin: 30px;
+    float: right; 
+
+}
+
+h1 {
+    
+    color: hsl(35, 50%, 30%);
+    font-size: 5em;
+    margin: 1.5em;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+blockquote {
+
+    color: hsl(35, 50%, 10%);
+    text-decoration: underline;
+    font-size: 2.5em;
+    font-style: italic;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+p {
+
+    color: hsl(35, 50%, 10%);
+    font-size: 1.8em;
+   
+}
+
+.text {
+    margin: 50px 30px 30px 30px;
+}
+
+.number {
+
+    margin: 50px 30px 30px 30px;
+}
+
+a {
+    color: hsl(0, 50%, 50%);
+    font-size: 1.8em;
+}
